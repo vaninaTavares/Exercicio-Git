@@ -6,3 +6,5 @@ Treinamento Git na prática!
 "Alteração e subida de informações para uma nova branch"
 
 1.1
+
+2.2
