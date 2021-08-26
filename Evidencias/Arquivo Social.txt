@@ -1,3 +1,8 @@
 Teste equipe Social.
 
 Treinamento Git na prática!
+
+
+"Alteração e subida de informações para uma nova branch"
+
+1.1
